@@ -1,8 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+#include <stdio.h>
+/**
+ * main - more headers goes there
+ * Return: 0 this is successful
+ **/
 int main(void)
 {
 	int n;
@@ -19,7 +21,7 @@ int main(void)
 	}
 	else
 	{
-		printf"(%d is negative\n", n);
+		printf("%d is negative\n", n);
 	}
 	return (0);
 }
