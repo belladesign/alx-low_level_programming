@@ -5,14 +5,12 @@
  *
  * Return: Always 0  (Success)
  */
-int main(void)
-{
-	char num[9] = "0123456789";
+int main{
 	int i;
 
-	for (i = 0; i < 9; i++)
+	for (i = 0; i < 10; i++)
 	{
-		putchar(num[i]);
+		printf("%d", i);
 	}
 	putchar('\n');
 	return (0);
