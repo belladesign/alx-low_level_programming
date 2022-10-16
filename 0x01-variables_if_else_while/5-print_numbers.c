@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Prints integers from 0 to 9
+ * main.c - Prints integers from 0 to 9
  *
  * Return: Always 0  (Success)
  */
-int main
+int main(int argc, char *argv[])
 {
 	int i;
 
