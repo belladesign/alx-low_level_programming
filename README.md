@@ -1,1 +1,1 @@
-This is a description of this repository
+This is a description of this repository.
