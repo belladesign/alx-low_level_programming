@@ -4,7 +4,7 @@
 /**
  * str_concat - concatenates two strings.
  * @s1: first string.
- #include "holberton.h"
+ #include "mai.h"
 #include <stdlib.h>
 
 /**
